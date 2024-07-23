@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "71178178995",
+    "project_id": "pedro-9be5f",
+    "storage_bucket": "pedro-9be5f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:71178178995:android:b00f71b2c0a0f61a1d3bc6",
+        "android_client_info": {
+          "package_name": "isisur.cl.autostand30"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBLMFNEXhdZpePNDv_Zzon5GrSQ-9HvvTw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
